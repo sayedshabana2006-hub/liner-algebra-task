@@ -1,2 +1,0 @@
-# liner-algebra-task
-gussuan
